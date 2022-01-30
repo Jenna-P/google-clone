@@ -3,7 +3,7 @@
 
 ### Description
 
-Simple HTML/CSS and JS exercise 
+Mini projeckt to exercise HTML/CSS and JS 
  - can search to enter and click "google-search" button
  - responsive
  
